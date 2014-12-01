@@ -1,0 +1,3 @@
+[submodule "Multiplayer-game-and-other-stuff"]
+	path = Multiplayer-game-and-other-stuff
+	url = https://github.com/nmec/Intel-Edison-demo-day.git
