@@ -1,3 +1,6 @@
 [submodule "Multiplayer-game-and-other-stuff"]
 	path = Multiplayer-game-and-other-stuff
 	url = https://github.com/nmec/Intel-Edison-demo-day.git
+[submodule "IntelEdisonDemoDaySphericalCoordinates"]
+	path = IntelEdisonDemoDaySphericalCoordinates
+	url = https://github.com/orgicus/IntelEdisonDemoDaySphericalCoordinates.git
